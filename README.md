@@ -1,6 +1,6 @@
 # Workout Log
 
-###Endpoints:
+### Endpoints:
 
 #### 1.  /user/register • POST • Create user with username and password.
 <img src= "images/register.png" width = 75%>
